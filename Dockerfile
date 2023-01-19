@@ -4,11 +4,11 @@ RUN apt-get update && \
   apt-get install -y \
   neofetch \
   chromium \
- ffmpeg \
- wget \
- imagemagick \
- webp \ 
- mc && \
+  ffmpeg \
+  wget \
+  imagemagick \
+  webp \ 
+  mc && \
   rm -rf /var/lib/apt/lists/*
 
 COPY package.json .
