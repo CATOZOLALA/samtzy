@@ -325,7 +325,6 @@ jiren = `
 ┗━━⊱
 diablobotwhatsapp.reply(jiren)
 break
-break
 case 'infosc': 
 case 'scrip':
 case 'sc':
