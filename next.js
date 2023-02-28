@@ -269,4 +269,3 @@ return diablo
 }
 
 diabloBot()
-require("http").createServer((_, res) => res.end("OKTA!")).listen(8080)
